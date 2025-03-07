@@ -1,0 +1,22 @@
+@media screen and (max-width: 959.98px) {
+    .default-ltr-cache-6dfzkw-StyledBrandLogo {
+        width: 5.5625rem;
+        height: 1.5rem;
+    }
+}
+.default-ltr-cache-6dfzkw-StyledBrandLogo {
+    width: 9.25rem;
+    height: 2.5rem;
+    color: rgb(229, 9, 20);
+    fill: currentColor;
+    display: block;
+}
+svg{
+    width: 148px;
+    height: 40px;
+    fill: red;
+    margin-top:20px;
+    margin: 50px;
+    border: 2px red;
+
+}
